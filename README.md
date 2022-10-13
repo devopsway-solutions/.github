@@ -1,2 +1,0 @@
-# TheDevOpsWay
-## This is TheDevOpsWay
